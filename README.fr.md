@@ -2,7 +2,7 @@
 
 **Langues :** [English](README.md) | Français
 
-Faites votre première contribution open source en vous ajoutant aux
+Faites votre première contribution open source en vous ajoutant à la
 **[Page des contributeurs d'OSS Cameroon](https://osscameroon.github.io/firstcontributions/)**.
 Vous pourrez ensuite y répertorier les issues et les pull requests auxquelles vous participez, quel que soit le projet open source.
 
